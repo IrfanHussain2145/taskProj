@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./lab_-_task_-_squirrel/Kapture_2023_-_02_-_12_at_14.53.17.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./lab_-_task_-_squirrel/Kapture_2023_-_02_-_12_at_14_._53_._17.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
